@@ -18,7 +18,7 @@ Se for utilizar algum Framework, utilizar:
   
 Para o login, criar um usuário de login `admin` e senha `admin`  
   
-Enviar o link do GitHub contendo a aplicação de teste para gabriel@amzmp.com.br, com o assunto:  
+Enviar o link do GitHub contendo a aplicação de teste para webinterno@amzmp.com.br, com o assunto:  
   
 `[Teste - Backend] Seu Nome`  
 Favor evidenciar a forma de setup inicial da aplicação  
